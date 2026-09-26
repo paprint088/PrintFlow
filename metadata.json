@@ -1,0 +1,6 @@
+{
+  "name": "PrintFlow",
+  "description": "Monitors Gmail for print requests, verifies document attachments, calculates ink and page cost, and dispatches to printer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
